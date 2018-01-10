@@ -20,3 +20,5 @@ This continues until Player 2 correctly guesses the code or they run out of atte
 For this mode, the player will enter their guess into the input window.
 Similar to the Player vs Player mode, the same results will be printed in the Command Window.
 The player continues to guess until they are correct or run out of attempts.
+
+Url for Video Submission: https://www.youtube.com/watch?v=bihcH5a93AU&feature=youtu.be
