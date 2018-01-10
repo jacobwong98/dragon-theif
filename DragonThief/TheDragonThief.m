@@ -72,7 +72,7 @@ while Attempts > 0
                 fprintf('All digits are incorrect. %0.0f Attempts left. \n', Attempts)
             % No otherwise statement because the logical will only give
             % values from 0 to 5 so there are no other possible cases
-        end % Swtich Statement
+        end % Switch Statement
     end % If statement for verifying Digits 2
 end % While Loop
 if Attempts == 0 && Digits_3~=0
